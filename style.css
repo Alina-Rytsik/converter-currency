@@ -1,0 +1,26 @@
+.convert_block_item input {
+  height: 30px;
+  width: 250px;
+  font-size: 16px;
+  padding: 0px 0px 0px 15px;
+  border-color: black;
+  margin: 80px -30px 20px 50px;
+  background: #ffff;
+}
+.convert_block_item input:hover {
+  border-color: #ffc803;
+}
+
+.convert_block_item select {
+  height: 30px;
+  width: 100px;
+  margin: 0px 20px 20px 50px;
+  border-color: black;
+  background: #ffc803;;
+} 
+
+.convert_result {
+  font-size: 25px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
